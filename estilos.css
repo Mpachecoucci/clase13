@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+
+}
+input{
+	margin: 2px;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+.panel{
+	display: flex;
+    flex-direction: column;
+    align-items: center;	
+}
+#logout{
+	color: red;
+	font-size: 20px;
+}
